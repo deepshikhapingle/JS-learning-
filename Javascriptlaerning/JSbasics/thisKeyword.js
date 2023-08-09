@@ -3,11 +3,11 @@
 
 console.log(this);
 
-const calcDist = fucntion (dist) {
+const calcDist = fucntion (dist) 
 
     console.log(20 + dist);
     console.log (`This is ${this}`);
-};
+
 calcDist(32);
 const calcDistArrow = (dist) =>{
     console.log(20 + dist);
