@@ -57,3 +57,5 @@ for(let entry of Object.entries(car)){
 
     console.log(entry);
 }
+
+iPhone = "APPLE iPhone 13 (Blue, 128 GB) APPLE phone"
